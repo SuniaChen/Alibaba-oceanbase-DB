@@ -3,7 +3,8 @@
 <font size=5><div align="right"><a href="https://github.com/alibaba/oceanbase/wiki/EN_Home">English Version</a></div>
 </font>
 
-<p>OceanBase是<a href="http://page.china.alibaba.com/shtml/about/ali_group1.shtml"  target="_blank">阿里巴巴集团</a>自主研发的可扩展的关系型数据库，实现了跨行跨表的事务，支持数千亿条记录、数百TB数据上的SQL操作。在阿里巴巴集团下，OceanBase数据库支持了多个重要业务的数据存储，包括收藏夹、直通车报表、天猫评价等。截止到2013年4月份，OceanBase线上业务的数据量已经超过一千亿条。 </p>
+<p>OceanBase是<a href="http://page.china.alibaba.com/shtml/about/ali_group1.shtml"  target="_blank">阿里巴巴集团</a>自主研发的可扩展的关系型数据库，实现了跨行跨表的事务，支持数千亿条记录、数百TB数据上的SQL操作。在阿里巴巴集团下，OceanBase数据库支持了多个重要业务的数据存储，包括收藏夹、直通车报表、天猫评价等。截止到2013年4月份，OceanBase线上业务的数据量已经超过一千亿条。 
+</p>
 
 <h2>1 最新动态</h2>
 <p>2013/10/31，合并最新的bugfix和特性到0.42分支上：</p>
